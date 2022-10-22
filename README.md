@@ -23,3 +23,4 @@ A)The reason of going to infinite loop is- Whenever we are initialising the node
 The children are making for the entire class , instead we have to make it for the node specific.
 
 B)Added the code of children=[],self.children=children , so that the children is being made for the node specific.
+![tree](https://user-images.githubusercontent.com/84618439/197336071-8ea88b53-e74f-434d-94e2-5902538289c8.png)
