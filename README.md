@@ -10,7 +10,12 @@ than once then show an error.
 Approach - I have made the dictionary with eater_id as key and foodmenu_id as value.
 And then I have traversed through all the keys to append the food items in the list.
 Then found the count of each food item, argsort it to find the top 3 counts.
-And returned the top 3 food items
+And returned the top 3 food items.
+
+{ eater_id_1:foodmenu_id_1,
+  eater_id_2:foodmenu_id_2 }
+  
+Added the test cases to test codem and it is going well.
 
 
 Problem 2: Debug the python code and fix it.
